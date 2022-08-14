@@ -34,4 +34,4 @@ rm -rf LeafOS_LTS
 chmod 777 os/*
 chmod 777 apps/*
 
-./os.sh
+./os.sh 
